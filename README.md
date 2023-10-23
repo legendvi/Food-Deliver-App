@@ -30,9 +30,21 @@ This app is deployed in netlify which is a staic site domain
       
 
 
-## Project Recording:
+## Project Screenshots:
 
-https://github.com/legendvi/Food-Deliver-App/assets/41253273/77975204-890f-4bba-b7bb-dcd426cda097
+Project HomePage:
+
+![Screenshot 2023-10-23 193438](https://github.com/legendvi/Food-Deliver-App/assets/41253273/24d015a7-c92e-4a6d-93e6-2ebd985f153e)
+
+Cart Screen:
+
+![Screenshot 2023-10-23 193447](https://github.com/legendvi/Food-Deliver-App/assets/41253273/230488ec-e231-4594-b4be-11d1b5f54766)
+
+Order Screens:
+
+![Screenshot 2023-10-23 193525](https://github.com/legendvi/Food-Deliver-App/assets/41253273/3e71d6d4-793c-471c-a841-21774b597c8e)
+![Screenshot 2023-10-23 193457](https://github.com/legendvi/Food-Deliver-App/assets/41253273/add55ba0-25a6-457a-bd16-62cee0235eff)
+
 
 
 ## Installation and Setup Instructions:
